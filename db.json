@@ -1,0 +1,24 @@
+{
+    "Games" : {
+        "PC" : [
+            {
+                "id" : 1,
+                "title" : "Dying Light"
+            },
+            {
+                "id" : 2,
+                "title" : "Far Cry"
+            }
+        ],
+        "MOBILE" : [
+            {
+                "id" : 1,
+                "title" : "PUBG Mobile"
+            },
+            {
+                "id" : 2,
+                "title" : "Mobile Legend"
+            }
+        ]
+    }
+}

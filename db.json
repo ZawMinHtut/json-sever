@@ -64,58 +64,6 @@
             ]
         },
         "MOBILE" : {
-            "Top" : [
-                {
-                    "name": "PUBG MOBILE LITE",
-                    "img": "https://upload.wikimedia.org/wikipedia/en/e/e7/The_Outer_Worlds_cover_art.png",
-                    "producer" : "Eric DeMilt",
-                    "developer" : "Obsidian Entertainment",
-                    "director" : "Leonard Boyarsky Tim Cain",
-                    "publisher" : "Private Division",
-                    "gamePlay" : "The Outer Worlds is an action role-playing video game featuring a first-person perspective. In the early stages of the game, the player can create their own character and unlock a ship, which acts as the game's central hub space."
-                },
-                {
-                    "name": "Call Of Duty : Modern Warface",
-                    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/CallofDutyModernWarfare%282019%29.jpg/220px-CallofDutyModernWarfare%282019%29.jpg",
-                    "producer" : "Activision",
-                    "developer" : "Infinity Ward[a]",
-                    "director" : "Unknown",
-                    "publisher" : "Activision",
-                    "gamePlay" : "Modern Warfare's single-player campaign focuses on realism and feature tactically-based moral choices whereupon the player is evaluated and assigned a score at the end of each level; players have to quickly ascertain whether NPCs are a threat or not, such as a civilian woman who is believed to be reaching for a gun, but then simply grabs her baby from a crib."
-                },
-                {
-                    "name": "Apex Legends",
-                    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Apex_legends_cover.jpg/220px-Apex_legends_cover.jpg",
-                    "producer" : "Drew McCoy Tina Sanchez",
-                    "developer" : "Respawn Entertainment",
-                    "director" : "Unknown",
-                    "publisher" : "Electronic Arts",
-                    "gamePlay" : "Apex Legends is a battle royale game in which up to 20 three-man squads land on an island before searching for weapons and supplies to then attempt to defeat all other players in combat. The final team alive wins the round."
-                }
-            ],
-            "Best" : [
-                {
-                    "name": "Monster Hunter: World",
-                    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Monster_Hunter_World_cover_art.jpg/220px-Monster_Hunter_World_cover_art.jpg",
-                    "producer" : "Hironobu Takeshita, Shingo Izumi, Kazunori Inoue",
-                    "developer" : "Capcom",
-                    "director" : "Yuya Tokuda",
-                    "publisher" : "Capcom",
-                    "gamePlay" : "Monster Hunter: World is an action role-playing game played from a third-person perspective. Similar to previous games in the series, the player takes the role of a player-created character who travels to the 'New World', an unpopulated land mass filled with monsters, to join the Research Commission that study the land from their central command base of Astera."
-                },
-                {
-                    "name": "Assassin's Creed Odyssey",
-                    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/ACOdysseyCoverArt.png/220px-ACOdysseyCoverArt.png",
-                    "producer" : "Marc-Alexis Côté",
-                    "developer" : "Ubisoft Quebec[a]",
-                    "director" : "Jonathan Dumont Scott Phillips",
-                    "publisher" : "Ubisoft",
-                    "gamePlay" : "Assassin's Creed Odyssey places more emphasis on role-playing elements than previous games in the series. The game contains dialogue options, branching quests and multiple endings."
-                }
-            ],
-            "New" : [
-
-            ]
         },
         "BgImg" : "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?ixlib=rb-1.2.1&auto=format&fit=crop&w=428&h=214&q=60"
     }

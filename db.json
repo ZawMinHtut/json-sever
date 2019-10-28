@@ -13,7 +13,11 @@
                 },
                 {
                     "name": "Call Of Duty : Modern Warface",
-                    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/CallofDutyModernWarfare%282019%29.jpg/220px-CallofDutyModernWarfare%282019%29.jpg"
+                    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/CallofDutyModernWarfare%282019%29.jpg/220px-CallofDutyModernWarfare%282019%29.jpg",
+                    "producer" : "Eric Demilt",
+                    "developer" : "Obsidian Entertainment",
+                    "director" : "Leonard Boyarsky Tim Cain",
+                    "publisher" : "Private Division"
                 },
                 {
                     "name": "Apex Legends",

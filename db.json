@@ -1,15 +1,24 @@
 {
     "Games" : {
-        "PC" : [
-            {
-                "id" : 1,
-                "title" : "Dying Light"
-            },
-            {
-                "id" : 2,
-                "title" : "Far Cry"
-            }
-        ],
+        "PC" : {
+            "Top" : [
+                {
+                    "name": "The Outer Worlds",
+                    "img": "https://upload.wikimedia.org/wikipedia/en/e/e7/The_Outer_Worlds_cover_art.png"
+                },
+                {
+                    "name": "Call Of Duty : Modern Warface",
+                    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/CallofDutyModernWarfare%282019%29.jpg/220px-CallofDutyModernWarfare%282019%29.jpg"
+                },
+                {
+                    "name": "Apex Legends",
+                    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Apex_legends_cover.jpg/220px-Apex_legends_cover.jpg"
+                }
+            ],
+            "New" : [
+
+            ]
+        },
         "MOBILE" : [
             {
                 "id" : 1,
